@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T06:42:00.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="J0kPmMy2Cz5Ghl_UcO7z" version="12.9.11" type="github"><diagram id="ooLe2wQt8LUIcciOnssT" name="Page-1">ddHNEoIgEADgp+Eu0KSdzerSyUNnRjZhBl0HabSePh0wY6wTy7cLyw/heTOerejUFSUYwhI5En4kjNEdzaZhlqeXNKEeaqtlKFqh1C8ImAR9aAl9VOgQjdNdjBW2LVQuMmEtDnHZHU3ctRM1bKCshNnqTUunvGYsXf0CulZLZ7o/+EwjluJwk14JicMX8YLw3CI6HzVjDmZ+vOVd/LrTn+znYBZa92PBFKx7T5Poh3jxBg==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-14T06:58:56.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36" etag="sL3NdmUyrVFmMz-U-9xO" version="12.9.12" type="github">
+  <diagram id="ooLe2wQt8LUIcciOnssT" name="Page-1">
+    <mxGraphModel dx="1418" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-5" value="入驻风控系统" style="swimlane;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="200" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;" edge="1" parent="8JOTHJ4MUZvDHxbij8u0-5" source="8JOTHJ4MUZvDHxbij8u0-8" target="8JOTHJ4MUZvDHxbij8u0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-8" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="8JOTHJ4MUZvDHxbij8u0-5">
+          <mxGeometry x="60" y="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;" edge="1" parent="8JOTHJ4MUZvDHxbij8u0-5" source="8JOTHJ4MUZvDHxbij8u0-9" target="8JOTHJ4MUZvDHxbij8u0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-9" value="注册" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="8JOTHJ4MUZvDHxbij8u0-5">
+          <mxGeometry x="60" y="100" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;" edge="1" parent="8JOTHJ4MUZvDHxbij8u0-5" source="8JOTHJ4MUZvDHxbij8u0-11" target="8JOTHJ4MUZvDHxbij8u0-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-11" value="完善资料" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="8JOTHJ4MUZvDHxbij8u0-5">
+          <mxGeometry x="60" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-13" value="后台审批" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="8JOTHJ4MUZvDHxbij8u0-5">
+          <mxGeometry x="60" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-6" value="账户风控系统" style="swimlane;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="200" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;" edge="1" parent="8JOTHJ4MUZvDHxbij8u0-6" source="8JOTHJ4MUZvDHxbij8u0-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-15" value="风控" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="8JOTHJ4MUZvDHxbij8u0-6">
+          <mxGeometry x="65" y="210" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;fontFamily=Lucida Console;" edge="1" parent="8JOTHJ4MUZvDHxbij8u0-6" source="8JOTHJ4MUZvDHxbij8u0-19" target="8JOTHJ4MUZvDHxbij8u0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-19" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="8JOTHJ4MUZvDHxbij8u0-6">
+          <mxGeometry x="65" y="320" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-23" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="8JOTHJ4MUZvDHxbij8u0-6">
+          <mxGeometry x="65" y="450" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-20" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Lucida Console;" vertex="1" parent="8JOTHJ4MUZvDHxbij8u0-6">
+          <mxGeometry x="65" y="450" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-7" value="个人开户入驻流程图" style="swimlane;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="400" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="8JOTHJ4MUZvDHxbij8u0-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;" edge="1" parent="1" source="8JOTHJ4MUZvDHxbij8u0-13" target="8JOTHJ4MUZvDHxbij8u0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
